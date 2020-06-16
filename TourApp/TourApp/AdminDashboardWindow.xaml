@@ -1,0 +1,16 @@
+﻿<Window x:Class="TourApp.AdminDashboardWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TourApp"
+        mc:Ignorable="d"
+        Title="Адмін панель" Height="451" Width="899">
+    <Grid Height="413">
+        <DataGrid Margin="10,10,147,10" Name="routesList" SelectionChanged="Update"/>
+        <Button Content="Добавити" HorizontalAlignment="Left" Height="31" Margin="757,336,0,0" VerticalAlignment="Top" Width="100" Click="Add"/>
+        <Button Content="Перегляд" HorizontalAlignment="Left" Height="31" Margin="757,372,0,0" VerticalAlignment="Top" Width="100" Click="Review"/>
+        <Button Content="Оновити" HorizontalAlignment="Left" Height="31" Margin="757,300,0,0" VerticalAlignment="Top" Width="100" Click="Refresh"/>
+
+    </Grid>
+</Window>

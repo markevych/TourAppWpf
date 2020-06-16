@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\TourApp\TourApp.BLL\bin\Debug\netcoreapp3.1\TourApp.BLL.deps.json
+C:\Users\user\source\repos\TourApp\TourApp.BLL\bin\Debug\netcoreapp3.1\TourApp.BLL.dll
+C:\Users\user\source\repos\TourApp\TourApp.BLL\bin\Debug\netcoreapp3.1\TourApp.BLL.pdb
+C:\Users\user\source\repos\TourApp\TourApp.BLL\bin\Debug\netcoreapp3.1\TourApp.DAL.dll
+C:\Users\user\source\repos\TourApp\TourApp.BLL\bin\Debug\netcoreapp3.1\TourApp.DAL.pdb
+C:\Users\user\source\repos\TourApp\TourApp.BLL\obj\Debug\netcoreapp3.1\TourApp.BLL.csprojAssemblyReference.cache
+C:\Users\user\source\repos\TourApp\TourApp.BLL\obj\Debug\netcoreapp3.1\TourApp.BLL.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TourApp\TourApp.BLL\obj\Debug\netcoreapp3.1\TourApp.BLL.AssemblyInfo.cs
+C:\Users\user\source\repos\TourApp\TourApp.BLL\obj\Debug\netcoreapp3.1\TourApp.BLL.csproj.CopyComplete
+C:\Users\user\source\repos\TourApp\TourApp.BLL\obj\Debug\netcoreapp3.1\TourApp.BLL.dll
+C:\Users\user\source\repos\TourApp\TourApp.BLL\obj\Debug\netcoreapp3.1\TourApp.BLL.pdb

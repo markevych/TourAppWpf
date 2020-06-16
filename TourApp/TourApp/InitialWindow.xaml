@@ -1,0 +1,13 @@
+﻿<Window x:Class="TourApp.InitialWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TourApp"
+        mc:Ignorable="d"
+        Title="Програма турів" Height="450" Width="800">
+    <Grid>
+        <Button Content="Режим перегляду" HorizontalAlignment="Left" Margin="50,0,0,0" VerticalAlignment="Center" Height="100" Width="250" Click="OpenMainWindow"/>
+        <Button Content="Режим адміністратора" HorizontalAlignment="Left" Margin="500,0,0,0" VerticalAlignment="Center" Height="100" Width="250" Click="OpenAdminWindow"/>
+    </Grid>
+</Window>
